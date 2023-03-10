@@ -1,0 +1,11 @@
+- main_h36m_ang.py
+  - from utils import h36motion as datasets 
+    - from utils import data_utils
+      - from utils import forward_kinematics 
+  - from model import AttModel
+    - import utils.util as util
+    - from model import GCN
+  - from utils.opt import Options
+    - from utils import log
+  - from utils import util
+  - from utils import log
